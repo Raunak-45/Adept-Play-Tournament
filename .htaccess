@@ -1,0 +1,9 @@
+# This is optional, but good practice for security and clean URLs.
+# For this project, it can remain empty or contain basic directives.
+
+# Prevent directory listing
+Options -Indexes
+
+# You could add URL rewriting rules here if needed in the future
+# RewriteEngine On
+# RewriteRule ^profile$ profile.php [L]
